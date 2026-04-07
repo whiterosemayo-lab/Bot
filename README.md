@@ -1,2 +1,0 @@
-# Bot
-For rp servers
